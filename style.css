@@ -3,6 +3,12 @@ body {
     font-size: 16px;
 }
 
+.translate {
+    color: gray;
+    font-style: italic;
+    font-weight: initial;
+}
+
 .innerContainer {
     width: 95%;
     max-width: 800px;
@@ -39,15 +45,6 @@ textarea {
 
 textarea {
     height: 80px;
-}
-
-.interestForm input,
-.interestForm textarea,
-.interestForm button {
-    width: 95%;
-    max-width: 600px;
-    box-sizing: border-box;
-    margin-bottom: 15px;
 }
 
 .imageContainer {
