@@ -76,6 +76,13 @@ hr.divider {
     gap: 12px;
 }
 
+.photoContainer {
+    padding: 10px 0 10px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
 @media (width <=600px) {
     body {
         font-size: 12px;
