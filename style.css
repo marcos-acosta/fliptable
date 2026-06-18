@@ -59,6 +59,23 @@ textarea {
     max-width: 400px;
 }
 
+.dbImage {
+    width: 80%;
+    max-width: 500px;
+}
+
+hr.divider {
+    border-top: 1px dashed gray;
+    border-bottom: none;
+}
+
+.projectContainer {
+    padding: 10px 0 10px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
 @media (width <=600px) {
     body {
         font-size: 12px;
