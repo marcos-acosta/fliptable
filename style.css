@@ -91,4 +91,8 @@ hr.divider {
     .innerContainer {
         margin-top: 40px;
     }
+
+    ul li {
+        margin-left: -20px;
+    }
 }
